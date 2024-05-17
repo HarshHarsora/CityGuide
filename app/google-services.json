@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808300669065",
+    "project_id": "city-guide-121cd",
+    "storage_bucket": "city-guide-121cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808300669065:android:28bd4e4e621712c7debe58",
+        "android_client_info": {
+          "package_name": "com.harshharsora.cityguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUB5BgAmemOeOwqdkV_oa6liOEbDdJVLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
